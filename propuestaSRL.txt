@@ -1,0 +1,25 @@
+trello
+
+Para la empresa BateBateria es un placer contactarnos con ustedes, deseamos y esperamos
+que todas tus necesidades sean resueltas.
+
+este trabajo estara conformado por un equipo de 5 personas, los mejores ingenieros de la empresa,
+el cual son especialistas en desarrollo agil de software.
+
+la aplicacion planeada tendra la posibilidad de que los corredores puedan publicar los detalles de las carreras,
+ademas de esto tendra una plantilla para eventos, donde el corredor podra informar sobre los eventos en su ciudad,
+contaremos con un ranking de los mejores tiempos, en la informacion del evento.
+
+Despues de una reunion, se concreto las fases del proyecto, el cual sera finalizado en 3 semanas a partir de hoy,
+
+contara con 3 sprint, contaremos con 1 contenedor con 3 plantilla.
+el primer sprint montaremos un dock con el montaje servicio de dns , de correo y de web.
+Este sprint solo estara planeado para montaje en un contenedor. este sprint sera entegado la primer semana.
+
+el segundo sprint consistira en, el montaje del agente usuario del correo.  y de la logica del manejo de datos
+backend.contaremos con una base de datos en sql, y la logica la haremos en node.js el cual sera entregado la 
+segunda semana
+
+
+el tercer sprint consistira en el, frontend y la manipulacion de la base de datos como usuario. este sprint sera 
+entregado la 3 semana.
